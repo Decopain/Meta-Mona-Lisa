@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1bcbD8D2588e4D7FD697691d68f9d9D85F6EAb96",
+  "SCAN_LINK": "https://polygonscan.com/address/0x1bcbD8D2588e4D7FD697691d68f9d9D85F6EAb96",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Meta Mona Lisa",
+  "SYMBOL": "MML",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 50000000000000000000,
+  "DISPLAY_COST": 50.0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/meta-mona-lisa",
+  "SHOW_BACKGROUND": true
+}
