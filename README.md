@@ -14,10 +14,10 @@ An NFT Prooject
 - <b>Windows 10</b> (21H2)
 - <b>Jupyter Notebooks</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
-: <br/>
+ <br/>
  
 ![banner](https://github.com/Decopain/Random-Forrest-Classifier-and-XGBoost-Hybrid-Ensamble-for-Binary-Classification/assets/17460080/511e18c0-e772-4928-97d2-01e39c0f6643) 
 <br />
