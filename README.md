@@ -7,7 +7,9 @@ An NFT Prooject
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Python</b> 
+- <b>Python</b>
+- <b>Java</b>
+- <b>CSS</b> 
 
 <h2>Environments Used </h2>
 
