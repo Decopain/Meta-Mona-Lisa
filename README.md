@@ -12,7 +12,7 @@ An NFT Prooject
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
-- <b>Jupyter Notebooks</b> 
+- <b>VS Code</b> 
 
 <h2>Project walk-through:</h2>
 
